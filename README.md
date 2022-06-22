@@ -1,2 +1,2 @@
-## DataScience Science Project 1 
-# Bernard Strzalkowski and Keith Sikes
+# DataScience Science Project 1 
+## Bernard Strzalkowski and Keith Sikes
